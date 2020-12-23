@@ -2,7 +2,7 @@
 
 Code to generate statistics describing several land cover classes and to then classify them using a random forest classifier in R.
 
-<p align="center"> <img src="images/general_approach.png" width="75%"> </p>
+<p align="center"> <img src="images/general_approach.png" width="100%"> </p>
 
 **Classes:**
 - Riparian Vegetation
@@ -35,7 +35,7 @@ First, two datasets are generated: one optical (NDVI phenology) and one active (
 
 ** Example phenological information for the three vegetation classes considered herein:
 
-<p align="center"> <img src="images/veg_phenology.png" width="55%"> </p>
+<p align="center"> <img src="images/veg_phenology.png" width="75%"> </p>
 
 Using the above information, a class map was generated: 
 
