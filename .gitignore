@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+04_19_2016_sub.tif
+outputs.RData
+streamdist_data.tif
+streamdist_data_coarse.tif
+streamdist_data_fine.tif
+streamdist_pendleton.csv
+streamdist_pendleton_coarse.csv
+streamdist_pendleton_fine.csv
+output_imagery/
+NHDPLUS_H_1807_HU4_RASTER/
+NHDPLUS_H_1807_HU4_GDB
+flowpoints/
+flowline_cropbox/
